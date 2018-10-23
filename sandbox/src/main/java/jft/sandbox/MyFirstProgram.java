@@ -1,0 +1,10 @@
+//пакет
+package jft.sandbox;
+
+public class MyFirstProgram {
+
+    //функция main
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
